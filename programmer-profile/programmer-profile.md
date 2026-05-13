@@ -648,3 +648,5 @@ Keep this skill focused on the user and workflow.
 
 Do not turn this skill into a system documentation file or a coding standards
 file. Those belong in the other skills.
+
+Add programmer profile skill
